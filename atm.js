@@ -153,7 +153,7 @@ if (((user === SBI.UserName) && (_password === SBI.PassWord)) || ((user === HDFC
             break;
         }
         else {
-            console.log("choose your correct option ")
+            console.log("choose your correct option.. ")
         }
     }
 }
